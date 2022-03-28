@@ -1,4 +1,4 @@
-package Wk8;
+
 
 import java.util.Scanner;
 
